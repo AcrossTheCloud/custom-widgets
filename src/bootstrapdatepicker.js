@@ -53,6 +53,11 @@ function init(Survey, $) {
           default: "",
         },
         {
+          name: "startView",
+          category: "general",
+          default: 0
+        },
+        {
           name: "todayHighlight:boolean",
           category: "general",
           default: true,
@@ -95,6 +100,7 @@ function init(Survey, $) {
           format: question.dateFormat,
           startDate: question.startDate,
           endDate: question.endDate,
+          startView: question.startView,
           todayHighlight: question.todayHighlight,
           weekStart: question.weekStart,
           clearBtn: question.clearBtn,
