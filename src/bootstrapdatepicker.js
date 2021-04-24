@@ -68,6 +68,16 @@ function init(Survey, $) {
           default: 0,
         },
         {
+          name: "assumeNearbyYear",
+          category: "general",
+          default: false,
+        },
+        {
+          name: "defaultViewDate",
+          category: "general",
+          default: ""
+        },
+        {
           name: "clearBtn:boolean",
           category: "general",
           default: false,
