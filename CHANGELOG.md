@@ -2,6 +2,48 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.8.44](https://github.com/surveyjs/custom-widgets/compare/v1.8.43...v1.8.44) (2021-04-20)
+
+### [1.8.43](https://github.com/surveyjs/custom-widgets/compare/v1.8.42...v1.8.43) (2021-04-14)
+
+### [1.8.42](https://github.com/surveyjs/custom-widgets/compare/v1.8.41...v1.8.42) (2021-04-13)
+
+### [1.8.41](https://github.com/surveyjs/custom-widgets/compare/v1.8.40...v1.8.41) (2021-04-06)
+
+### [1.8.40](https://github.com/surveyjs/custom-widgets/compare/v1.8.39...v1.8.40) (2021-04-05)
+
+### [1.8.39](https://github.com/surveyjs/custom-widgets/compare/v1.8.38...v1.8.39) (2021-03-31)
+
+### [1.8.38](https://github.com/surveyjs/custom-widgets/compare/v1.8.37...v1.8.38) (2021-03-29)
+
+### [1.8.37](https://github.com/surveyjs/custom-widgets/compare/v1.8.36...v1.8.37) (2021-03-23)
+
+### [1.8.36](https://github.com/surveyjs/custom-widgets/compare/v1.8.35...v1.8.36) (2021-03-15)
+
+### [1.8.35](https://github.com/surveyjs/custom-widgets/compare/v1.8.34...v1.8.35) (2021-03-11)
+
+### [1.8.34](https://github.com/surveyjs/custom-widgets/compare/v1.8.33...v1.8.34) (2021-03-05)
+
+### [1.8.33](https://github.com/surveyjs/custom-widgets/compare/v1.8.32...v1.8.33) (2021-03-02)
+
+### [1.8.32](https://github.com/surveyjs/custom-widgets/compare/v1.8.31...v1.8.32) (2021-02-24)
+
+### [1.8.31](https://github.com/surveyjs/custom-widgets/compare/v1.8.30...v1.8.31) (2021-02-16)
+
+### [1.8.30](https://github.com/surveyjs/custom-widgets/compare/v1.8.29...v1.8.30) (2021-02-11)
+
+### [1.8.29](https://github.com/surveyjs/custom-widgets/compare/v1.8.28...v1.8.29) (2021-02-03)
+
+### [1.8.28](https://github.com/surveyjs/custom-widgets/compare/v1.8.27...v1.8.28) (2021-01-28)
+
+### [1.8.27](https://github.com/surveyjs/custom-widgets/compare/v1.8.26...v1.8.27) (2021-01-28)
+
+### [1.8.26](https://github.com/surveyjs/custom-widgets/compare/v1.8.25...v1.8.26) (2021-01-19)
+
+### [1.8.25](https://github.com/surveyjs/custom-widgets/compare/v1.8.24...v1.8.25) (2021-01-14)
+
+### [1.8.24](https://github.com/surveyjs/custom-widgets/compare/v1.8.23...v1.8.24) (2021-01-13)
+
 ### [1.8.23](https://github.com/surveyjs/custom-widgets/compare/v1.8.22...v1.8.23) (2020-12-29)
 
 ### [1.8.22](https://github.com/surveyjs/custom-widgets/compare/v1.8.21...v1.8.22) (2020-12-23)
