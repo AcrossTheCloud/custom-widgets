@@ -8,7 +8,7 @@
     "build": "webpack --env.buildType prod",
     "release": "standard-version --message \"Release: %s [skip ci]\""
   },
-  "private": true,
+  "private": false,
   "devDependencies": {
     "bootstrap-slider": "^10.6.2",
     "clean-webpack-plugin": "^0.1.17",
